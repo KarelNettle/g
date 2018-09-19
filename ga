@@ -1,0 +1,10 @@
+{
+  "reportRequests":
+  [
+    {
+      "viewId": "103771301",
+      "dateRanges": [{"startDate": "2018-01-01", "endDate": "2018-07-01"}],
+      "metrics": [{"expression": "ga:users"}]
+    }
+  ]
+}
